@@ -372,10 +372,10 @@ github.com/letsencrypt/pkcs11key v2.0.1-0.20170608213348-396559074696+incompatib
 github.com/lib/pq v1.1.1/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
 github.com/lib/pq v1.2.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
 github.com/libdns/libdns v0.2.0/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
-github.com/libdns/libdns v0.2.1 h1:Wu59T7wSHRgtA0cfxC+n1c/e+O3upJGWytknkmFEDis=
-github.com/libdns/libdns v0.2.1/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
-github.com/libdns/namesilo v0.1.0 h1:0cNGxzxa1NEfI9Dv+f4cINVfVEAraY6b1HhioSCEn/U=
-github.com/libdns/namesilo v0.1.0/go.mod h1:xTTU8rez2sKUIEZTnhAfhuT+IytfspUS486pwHVa+1k=
+github.com/libdns/libdns v0.2.2-0.20230227175549-2dc480633939 h1:EvTiXkv78P20yfk4CUPmAkH3Cmumt3s/48WWiC2babY=
+github.com/libdns/libdns v0.2.2-0.20230227175549-2dc480633939/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
+github.com/libdns/namesilo v0.1.1 h1:G6ECxNXpphWDVhSXyAdQBLA4KpHU0Az+TB9YMZMMH/4=
+github.com/libdns/namesilo v0.1.1/go.mod h1:JSyG04w+33JDbA2fYWaD9A4zufcxwK7ATNQ1RDuZbps=
 github.com/lightstep/lightstep-tracer-common/golang/gogo v0.0.0-20190605223551-bc2310a04743/go.mod h1:qklhhLq1aX+mtWk9cPHPzaBjWImj5ULL6C7HFJtXQMM=
 github.com/lightstep/lightstep-tracer-go v0.18.1/go.mod h1:jlF1pusYV4pidLvZ+XD0UBX0ZE6WURAspgAczcDHrL4=
 github.com/logrusorgru/aurora v0.0.0-20181002194514-a7b3b318ed4e/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
